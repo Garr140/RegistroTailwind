@@ -1,0 +1,67 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Edgar",
+      "apellidos": "Martínez",
+      "email": "hola1@hola1.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "nombre": "Edgar",
+      "apellidos": "Martínez",
+      "email": "hola1@hola1.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "nombre": "Edgar",
+      "apellidos": "Martínez",
+      "email": "hola@hola3.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "nombre": "Edgar",
+      "apellidos": "Martínez",
+      "email": "1234.@1234.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "nombre": "Edgar",
+      "apellidos": "Martínez",
+      "email": "1234.@1234.com",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "nombre": "Edgar",
+      "apellidos": "Martínez",
+      "email": "a@a.com",
+      "password": "1234",
+      "id": 6
+    },
+    {
+      "nombre": "Edgar",
+      "apellidos": "Martínez",
+      "email": "a@a.com",
+      "password": "1234",
+      "id": 7
+    },
+    {
+      "nombre": "Edgar",
+      "apellidos": "Martínez",
+      "email": "a@a.com",
+      "password": "1234",
+      "id": 8
+    },
+    {
+      "nombre": "Edgar",
+      "apellidos": "Martínez",
+      "email": "a@a.com",
+      "password": "1234",
+      "id": 9
+    }
+  ]
+}
